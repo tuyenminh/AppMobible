@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QUẢN LÝ ĐIỂM HỌC TẬP</string>
+    <string name="nav_trangchu">Trang chủ</string>
+    <string name="nav_thongtincanhan">Thông tin cá nhân</string>
+    <string name="nav_capnhatdiem">Cập nhật điểm</string>
+    <string name="nav_quanlymonhoc">Quản lý môn học</string>
+    <string name="nav_diemdukien">Điểm dự kiến</string>
+    <string name="nav_thoikhoabieu">Thời khóa biểu</string>
+    <string name="nav_bieudothongke">Biều đồ thống kê</string>
+    <string name="nav_mo">Mở ra</string>
+    <string name="nav_dong">Đóng lại</string>
+    <string name="file" />
+</resources>

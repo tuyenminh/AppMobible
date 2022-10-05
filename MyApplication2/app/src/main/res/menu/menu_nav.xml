@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:title="@string/nav_trangchu"
+            android:icon="@drawable/ic_home"/>
+        <item android:title="@string/nav_thongtincanhan"
+            android:id="@+id/thongtincanhan"
+            android:icon="@drawable/ic_ttcanhan"/>
+        <item android:id="@+id/nav_capnhatdiem"
+            android:title="@string/nav_capnhatdiem"
+            android:icon="@drawable/ic_capnhatdiem"/>
+        <item android:id="@+id/nav_quanlyhocphan"
+            android:title="@string/nav_quanlymonhoc"
+            android:icon="@drawable/ic_qlmonhoc"/>
+        <item android:id="@+id/nav_thoikhoabieu"
+            android:title="@string/nav_thoikhoabieu"
+            android:icon="@drawable/ic_tkb"/>
+        <item android:id="@+id/nav_diemdukien"
+            android:title="@string/nav_diemdukien"
+            android:icon="@drawable/ic_diemdukien"/>
+        <item android:id="@+id/nav_bieudothongke"
+            android:title="@string/nav_bieudothongke"
+            android:icon="@drawable/ic_bieudothongke"/>
+    </group>
+</menu>
